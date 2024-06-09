@@ -53,3 +53,10 @@ cd .. - para voltar uma pasta no terminal
 git status - mostra o status da branch
 
 touch README.md - cria o readme
+
+git log - historico dos commits
+
+git restore <nome do arquivo> - o git restaura o erro feito
+	
+git commit --amend -m"nome que vc desejar" - para alterar o nome do commit sem alterar o arquivo
+
