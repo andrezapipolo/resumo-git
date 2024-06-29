@@ -25,7 +25,7 @@
 
 git --version = para verificar qual versão do Git está instalado
 
-git config --global user.name "<USER_NAME>" = Substitua <USER_NAME> pelo nome de usuário que deseja usar.Para configurar o Git, é necessário definir algumas variáveis globais: user.name e user.email. As duas são necessárias para fazer commits.
+<p align="justify">git config --global user.name "<USER_NAME>" = Substitua <USER_NAME> pelo nome de usuário que deseja usar.Para configurar o Git, é necessário definir algumas variáveis globais: user.name e user.email. As duas são necessárias para fazer commits.</p>
 
 git config --global user.email "<USER_EMAIL>" = Substitua <USER_EMAIL> pelo seu endereço de email
 
