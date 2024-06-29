@@ -4,7 +4,7 @@
 ## Terminologia do Git
 
 
-Árvore de trabalho: o conjunto de diretórios e arquivos aninhados que contém o projeto no qual está sendo feito o trabalho.
+<p align="justify">Árvore de trabalho: o conjunto de diretórios e arquivos aninhados que contém o projeto no qual está sendo feito o trabalho.
 
 Repositório: o diretório, localizado no nível superior de uma árvore de trabalho, no qual o Git mantém todo o histórico e os metadados de um projeto. Os repositórios são quase sempre chamados de repositórios.
 
@@ -19,7 +19,7 @@ Branch: um branch é uma série nomeada de commits vinculados. O commit mais rec
 Repositório remoto: um repositório remoto é uma referência nomeada a outro repositório Git. Quando você cria um repositório, o Git cria um repositório remoto chamado origin, que é o repositório remoto padrão das operações de push e pull.
 
 
-Comandos, subcomandos e opções: as operações do Git são executadas por meio de comandos como git push e git pull. git é o comando e push ou pull é o subcomando. O subcomando especifica a operação que você deseja que o Git execute. Os comandos são frequentemente acompanhados por opções, que usam hifens (-) ou hifens duplos (--). Por exemplo, git reset --hard.
+Comandos, subcomandos e opções: as operações do Git são executadas por meio de comandos como git push e git pull. git é o comando e push ou pull é o subcomando. O subcomando especifica a operação que você deseja que o Git execute. Os comandos são frequentemente acompanhados por opções, que usam hifens (-) ou hifens duplos (--). Por exemplo, git reset --hard.</p>
 
 
 ## Comandos Gitbash
